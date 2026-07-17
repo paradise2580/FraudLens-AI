@@ -6,7 +6,6 @@ The first AI Co-Pilot that stops fraud and explains why. Real-time fraud detecti
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 [![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)](https://xgboost.ai)
 
-[Live Demo](https://fraud-detection.reallytics.ai)
 
 ---
 
@@ -115,10 +114,10 @@ Built at **Reallytics.ai** for Tower Loan and other financial services clients.
 
 ## Author
 
-**Rehan Malik** — Senior AI/ML Engineer @ Reallytics.ai
+**Anshivya Nagpal** — AI/ML Enthusiast 
 
-- [LinkedIn](https://linkedin.com/in/rehan-malik-62b3301ab)
-- [GitHub](https://github.com/rehan243)
-- [Live Demo](https://fraud-detection.reallytics.ai)
+- [LinkedIn](https://www.linkedin.com/in/anshivya-nagpal-18a75b315/)
+- [GitHub](https://github.com/paradise2580)
+
 
 ---
