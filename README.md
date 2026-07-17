@@ -13,7 +13,6 @@ The first AI Co-Pilot that stops fraud and explains why. Real-time fraud detecti
 
 Production-grade AI fraud detection platform deployed for financial institutions, lending platforms, and fintech companies. Sentinel AI acts as an intelligent ride-along partner for fraud review teams, providing real-time fraud probability scores (0.0–1.0) and plain-English explanations powered by GenAI.
 
-Built at **Reallytics.ai** for Tower Loan and other financial services clients.
 
 ## Architecture
 
